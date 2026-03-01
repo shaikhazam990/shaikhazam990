@@ -120,11 +120,11 @@ const azam = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 LeetCode Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shaikhazam990&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+<img src="https://leetcard.jacoblin.cool/Mohd_Azam0823?theme=dark&font=Fira%20Code&ext=contest" />
 
 </div>
 
