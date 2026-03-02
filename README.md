@@ -122,8 +122,6 @@ const azam = {
 
 ## 🏆 LeetCode Stats
 
-## 🏆 LeetCode Stats
-
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/Mohd_Azam0823?theme=dark&font=Fira%20Code&ext=activity" />
