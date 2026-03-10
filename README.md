@@ -39,7 +39,7 @@ const azam = {
 
 ## 🚀 Current Focus
 
-- 🔭 Building **[Moodify](https://github.com/shaikhazam990/moodiy)** — AI-based emotion-driven music recommendation platform
+- 🔭 Building **[Perplexity](https://github.com/shaikhazam990/moodiy)** 
 - 🌱 Learning **Advanced Frontend · Generative AI · Backend System Design · DevOps**
 - 👯 Looking to collaborate on **Full-Stack & AI-powered web applications**
 - 💬 Ask me about **React, Full-Stack Development, DSA, Backend APIs**
