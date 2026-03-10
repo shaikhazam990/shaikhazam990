@@ -29,7 +29,7 @@ const azam = {
   location:   "India 🇮🇳",
   stack:      ["React", "Node.js", "Express", "MongoDB", "TypeScript"],
   learning:   ["Generative AI", "System Design", "DevOps"],
-  current:    "Building Moodify – AI emotion-driven music platform 🎵",
+  current:    "Building Perplexity ",
   available:  true, // Open to collaborations & opportunities
   contact:    "shaikhazam0990@gmail.com",
 };
