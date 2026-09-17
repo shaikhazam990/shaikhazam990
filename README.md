@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Mohd%20Azam&fontSize=38&fontColor=fff&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%A2%20MERN%20%2B%20Applied%20AI&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:C44569,50:6C5CE7,75:00D2FF,100:6C5CE7&height=200&section=header&text=Mohd%20Azam&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Engineer%20%E2%80%A2%20MERN%20%2B%20Applied%20AI&descAlignY=58&descSize=16" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-azam-4956a828a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shaikhazam990)
@@ -16,6 +16,12 @@
 Final-year Computer Science student (B.Tech, Bennett University, Class of 2027) building production-grade full-stack applications on the MERN stack, with a growing focus on applied AI — retrieval-augmented generation, computer vision, and agentic systems. Comfortable owning a feature end to end: API design, data modeling, real-time infrastructure, and deployment.
 
 Currently looking for **Software Engineering Internship / New Grad** opportunities where I can work on systems at scale.
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,redis,aws,docker,kubernetes,git,figma,py,java&theme=dark&perline=9)
+
+</div>
 
 ---
 
@@ -85,12 +91,20 @@ Multi-step recommendation pipeline that maps detected mood to music suggestions,
 <img width="70%" src="https://streak-stats.demolab.com?user=shaikhazam990&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaikhazam990&theme=tokyo-night&hide_border=true&area=true&color=6AD3F7&line=6AD3F7&point=FFFFFF" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shaikhazam990&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+</div>
+
 ---
 
 <div align="center">
 
 📫 **shaikhazam0990@gmail.com**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:C44569,50:6C5CE7,75:00D2FF,100:6C5CE7&height=100&section=footer" width="100%"/>
 
 </div>
